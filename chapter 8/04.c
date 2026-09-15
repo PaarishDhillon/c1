@@ -7,6 +7,7 @@ int main(){
     gets(c);
     int length = strlen(c);
     printf("%s\n",c);
+    printf("%d\n",length);
     for (int i = 0; i < length; i++)
     {
         printf("%c",c[i]);

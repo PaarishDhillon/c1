@@ -10,6 +10,6 @@ char* slice(char str[], int m, int n){
  
 int main(){
     char str[] = "Paarish Dhillon";
-    printf("Sliced string = %s",slice(str,1,6));
+    printf("Sliced string = %s",slice(str,1,7));
     return 0;
 }
