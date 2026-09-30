@@ -1,0 +1,2 @@
+%zu is for size_t which itself is for unsigned integers
+%g is for floatinf point numbers like float and double
